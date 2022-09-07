@@ -1,7 +1,5 @@
 ### Sugeng Rawuh,Hi I'am Aziz 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Software Engineer
 - 🌱 I’m currently learning ReactJs & Flutter
 - 👯 I’m looking to collaborate on Github
